@@ -1,0 +1,37 @@
+.container-1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 17px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+    
+}
+
+.container-2{
+    text-align: justify;
+    line-height: 25px;
+    font-size: 0.9rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-left: 150px;
+    margin-right: 160px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.container-3{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    width: 600px;
+    background-color: azure;
+    text-align: center;
+    margin-left: 350px;
+    border-style: outset;
+}
